@@ -1,1 +1,3 @@
 # BlinkIT-Sales-Aalysis---Powe-BI
+## Description
+Developed an interactive Power BI dashboard for Blinkit retail sales analysis to monitor business performance and generate actionable insights. The dashboard visualizes key metrics such as total sales, average sales, item distribution, outlet performance, and customer ratings using dynamic charts and KPI cards. Implemented interactive filters for outlet location, outlet size, and item type to enable detailed data exploration and trend analysis. The project demonstrates skills in data visualization, business intelligence, dashboard design, and analytical reporting using Power BI.
